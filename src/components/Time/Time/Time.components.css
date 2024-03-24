@@ -1,0 +1,12 @@
+div{
+    margin: 15rem auto;
+}
+.get-time{
+    margin-top: 1.5rem;
+    width: 15%;
+    white-space: nowrap;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    cursor: pointer;
+}
